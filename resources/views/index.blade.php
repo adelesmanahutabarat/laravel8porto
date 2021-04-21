@@ -47,9 +47,6 @@
 </style>
 <![endif]-->
 
-
-
-
 </head>
 
 <body>
@@ -80,7 +77,7 @@
 								<nav class="mainNav" >
 
 								<ul>
-									<li><a class="scroll" href="#about">Home</a></li>
+									<li><a class="scroll" href="#home">Home</a></li>
 									<li><a class="scroll" href="#about">About me</a></li>
 									<li><a class="scroll" href="#resume">Resume</a></li>
 
@@ -136,10 +133,10 @@
 			
 			<ul class="slides">
 				
-				<li><img src="{{ url(asset('assets/images/sliderImages/slide1.jpg')) }}" class="slide" alt=""/>
+				<li><img src="{{ url(asset('assets/images/sliderImages/slidee3.jpg')) }}" class="slide" alt=""/>
 						<div class="caption">
 							<div class="captionInner">
-							<h1>my name is john smith</h1>
+							<h1>my name is ade lesmana</h1>
 							</div>
 							<div class="sub">
 							<h4>a talented freelancer located in our lovely earth</h4>
@@ -147,7 +144,7 @@
 						</div>
 				</li>
 					
-					<li><img src="{{ url(asset('assets/images/sliderImages/slide2.jpg')) }}" class="slide" alt="" />
+					<li><img src="{{ url(asset('assets/images/sliderImages/slidee2.jpg')) }}" class="slide" alt="" />
 						
 						<div class="caption">
 							<div class="captionInner">
@@ -160,11 +157,11 @@
 					
 					</li>					
 					
-						<li><img src="{{ url(asset('assets/images/sliderImages/slide3.jpg')) }}" class="slide" alt="" />
+						<li><img src="{{ url(asset('assets/images/sliderImages/slidee1.jpg')) }}" class="slide" alt="" />
 
 							<div class="caption">
 								<div class="captionInner">
-								<h1>i am a web developer</h1>
+								<h1>i am a web online copywriter</h1>
 								</div>
 									<div class="sub">
 									<h4>a talented freelancer located in our lovely earth</h4>
@@ -193,17 +190,14 @@
 						<!--Intro-->
 						<div class="one-third column intro">
 							<h1>A bit about me</h1>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-								 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-								 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-								 nisi ut aliquip ex ea commodo consequat.</p>
+							<p>Saya adalah programmer desktop,web dan android di salah satu perusahaan swasta. Saya sangat suka mengeksplorasihal-hal baru yang berhubungan dengan teknologi digital.</p>
 						</div>
 						<!--End intro-->
 						
 						<!--Profile-->
 						<div class="one-third column profile tCenter">
 							<div class="innerProfile">
-						<h1 class="prfTitle">My name is john Smith<span>iam a web designer / web developer</span></h1>
+						<h1 class="prfTitle">My name is ade lesmana<span>iam a web designer / web developer / Online Copywriter</span></h1>
 						<div class="imgProfile">
 							<img width="220" height="200" alt="" src="{{ url(asset('assets/images/sliderImages/pas2.jpg')) }}">
 						</div>
@@ -227,11 +221,11 @@
 						<div class="one-third column info">
 							<h1>Personal info</h1>
 							<ul>
-								<li><span>Birthdate</span> : 09/04/1982</li>
-								<li><span>Phone</span> : + 123-456-789-456</li>
-								<li><span>Email</span> : support@mutationmedia.net</li>
-								<li><span>Website</span> : www.mutationmedia.com</li>
-								<li><span>Adresse</span> : Street Road, City Name, IN 567 890.</li>
+								<li><span>Birthdate</span> : 10/13/1997</li>
+								<li><span>Phone</span> : 082272518485</li>
+								<li><span>Email</span> : adelesmanahutabarat@gmail.com</li>
+								<li><span>Website</span> : www.adelesmana.com</li>
+								<li><span>Adresse</span> : Jl.Bahagia No.16, Medan, Sumatera Utara.</li>
 							</ul>
 							
 							
@@ -955,7 +949,7 @@
 											<!--Post-->
 												<div class="eight columns post">
 													<div class="postMedia imgPost">
-													<img src="{{ url(asset('assets/images/blogImages/post1.jpg')) }}" alt="">
+													<img src="{{ url(asset('assets/images/blogImages/ss1.png')) }}" alt="">
 													
 														<div class="postDate short">
 														<h3>20 April 2014<span>by admin</span></h3>
@@ -982,7 +976,8 @@
 
 
 														<div class="btn more">	
-														<a href="blog_single.html">Read more</a>
+														<!-- <a href="blog_single.html">Read more</a> -->
+														<a href="https://benangrindu.blogspot.com/">Read more</a>
 														</div>
 
 														</div>
@@ -1002,7 +997,7 @@
 														<ul class="slides">
 
 														<li>
-															<img src="{{ url(asset('assets/images/blogImages/post2.jpg')) }}" alt=""/>
+															<img src="{{ url(asset('assets/images/blogImages/ss2.png')) }}" alt=""/>
 
 																	<div class="postDate short">
 																	<h3>11 October 2014<span>by admin</span></h3>
@@ -1010,7 +1005,7 @@
 
 															</li>
 														<li>
-															<img src="{{ url(asset('assets/images/blogImages/post3.jpg')) }}" alt="" />
+															<img src="{{ url(asset('assets/images/blogImages/ss2.png')) }}" alt="" />
 																<div class="postDate short">
 																<h3>11 October 2014<span>by admin</span></h3>
 																</div>
